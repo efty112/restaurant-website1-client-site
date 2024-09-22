@@ -1,0 +1,21 @@
+.aws-btn {
+    --button-default-height: 44px;
+    --button-default-font-size: 14px;
+    --button-default-border-radius: 4px;
+    --button-horizontal-padding: 16px;
+    --button-raise-level: 4px;
+    --button-hover-pressure: 1;
+    --transform-speed: 0.15s;
+    --button-primary-color: #e8e8e8;
+    --button-primary-color-dark: #bb8506;
+    --button-primary-color-light: #bb8506;
+    --button-primary-color-hover: #1f2937;
+    --button-primary-color-active: transparent;
+    --button-primary-border: none;
+    --button-secondary-color: transparent;
+--button-secondary-color-dark: transparent;
+--button-secondary-color-light: #ffffff;
+--button-secondary-color-hover: #e1eaf1;
+--button-secondary-color-active: #cfdee9;
+--button-secondary-border: 0px solid #1e88e5;
+  }
