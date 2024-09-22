@@ -8,6 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 <hr>
----------------------------------------------------------------
+<hr>
 Client Side Live Link: https://bistro-boss-restaurant-cecfc.web.app/
 Server Side Live Link: https://bistro-boss-server-five-rho.vercel.app/
